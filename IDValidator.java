@@ -1,5 +1,3 @@
-package com.validation;
-
 public abstract class IDValidator {
 	private String id;
 
